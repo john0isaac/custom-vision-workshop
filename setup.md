@@ -10,10 +10,10 @@ Visual Studio Code is an open source code editor which can be used to create nea
 
 A starter project has been provided which includes the images for the workshop and the solution code. To obtain the project:
 
-1. Navigate to [https://github.com/microsoft/workshop-library/](https://github.com/microsoft/workshop-library/)
-1. Select **Use this template** to create a copy of the repository in your GitHub account
-1. Name the new repository **workshop-library**
-1. Select **Create repository from template**
+1. Navigate to [https://github.com/john0isaac/custom-vision-workshop](https://github.com/john0isaac/custom-vision-workshop)
+1. Select **Fork** to create a copy of the repository in your GitHub account
+1. Name the new repository **custom-vision-workshop**
+1. Select **Create**
 1. When the new repository opens, select **Code**
 1. Select the **Local** tab and then the **Copy** button
 
@@ -24,12 +24,12 @@ A starter project has been provided which includes the images for the workshop a
     ```bash
     # Windows
     git clone <URL>
-    cd workshop-library\full\ml-model-custom-vision
+    cd custom-vision-workshop
     code .
 
     # Linux, WSL or macOS
     git clone <URL>
-    cd workshop-library\full\ml-model-custom-vision
+    cd custom-vision-workshop
     code .
     ```
 
