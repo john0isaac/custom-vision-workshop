@@ -15,7 +15,7 @@ Over the course of this workshop you will build a model to detect dog breeds. Yo
 
 ## Video walk-through
 
-TBA
+https://youtu.be/K0pZciUfyPs
 
 ## What you'll build with CustomVision.ai
 
